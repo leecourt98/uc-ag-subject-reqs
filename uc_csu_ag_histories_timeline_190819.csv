@@ -1,0 +1,29 @@
+system,start_year,end_year,start_label,end_label,subject_area,num_years_reqd,timeline
+CSU,1984,2019,,,English,4,subject specific
+CSU,1984,1989,,,Mathematics,2,subject specific
+CSU,1989,2019,,,Mathematics,3,subject specific
+CSU,1989,2003,,,History,1,subject specific
+CSU,1989,2003,,,Laboratory Science,1,subject specific
+CSU,1989,2019,,,Foreign Language,2,subject specific
+CSU,1989,2019,,,Visual and Performing Arts,1,subject specific
+CSU,1989,2003,,,Electives,3,subject specific
+CSU,1995,1989,,,Admissions Policy,"Experimenting with accepting students who completed UC's ""a-g"" requirements",policy
+CSU,2003,2019,,,History,2,subject specific
+CSU,2003,2019,,,Laboratory Science,2,subject specific
+CSU,2003,2019,,,Electives,1,subject specific
+UC,1931,1932,,,Introduction of Course Pattern Requirement,,policy
+UC,1931,1994,,,History,1,subject specific
+UC,1931,1981,,,English,3,subject specific
+UC,1931,1986,,,Mathematics,2,subject specific
+UC,1931,1994,,,Laboratory Science,1,subject specific
+UC,1931,2019,,,Foreign Language,2,subject specific
+UC,1931,1986,,,Electives,1,subject specific
+UC,1933,2019,,,Admissions Policy,GPA Cutoff: 3.0+,policy
+UC,1981,2019,,,English,4,subject specific
+UC,1986,2019,,,Mathematics,3,subject specific
+UC,1986,2003,,,Electives,4,subject specific
+UC,1994,2019,,,History,2,subject specific
+UC,1994,2019,,,Laboratory Science,2,subject specific
+UC,1994,2019,,,Electives,2,subject specific
+UC,2003,2019,,,Visual and Performing Arts,1,subject specific
+UC,2003,2019,,,Electives,1,subject specific
